@@ -1,0 +1,30 @@
+code.remark-inline-code {
+  background: rgba(27,31,35,.05);
+}
+
+code {
+  font-family: "Iosevka Term" !important;
+}
+
+p {
+  font-size: 26px;
+}
+
+li {
+  font-size: 24px;
+  line-height: 1.5em;
+
+  margin-bottom: 1em;
+}
+
+ul ul li {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  font-size: 22px;
+}
+
+h1 {
+  font-size: 65px;
+  text-align: center;
+  margin-top: 35%;
+}
